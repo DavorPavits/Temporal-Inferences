@@ -1,0 +1,104 @@
+{
+  "inferences": [
+    {
+      "id": 1,
+      "statement": "From 'It was the case that the bimboozle is flonk and it was the case that the floob is a quank', can we infer 'It was the case that the bimboozle is flonk and the floob is a quank'?",
+      "answer": "False"
+    },
+    {
+      "id": 2,
+      "statement": "From 'It was the case that the frazzle is on the zump and it was the case that the gribble wozzles a frazzle grooble', can we infer 'It was the case that the frazzle is on the zump and the gribble wozzles a frazzle grooble'?",
+      "answer": "False"
+    },
+    {
+      "id": 3,
+      "statement": "From 'It was the case that the blimp is in the wozzle and it was the case that the flonk quibbles plonk', can we infer 'It was the case that the blimp is in the wozzle and the flonk quibbles plonk'?",
+      "answer": "False"
+    },
+    {
+      "id": 4,
+      "statement": "From 'It was the case that the flimble is at wozzle wozzle and it was the case that the gribble is in the snork wozzle', can we infer 'It was the case that the flimble is at wozzle wozzle and the gribble is in the snork wozzle'?",
+      "answer": "False"
+    },
+    {
+      "id": 5,
+      "statement": "From 'It was the case that the frozz is frozz fribble and it was the case that the wibble wozzles to be shimble for', can we infer 'It was the case that the frozz is frozz fribble and the wibble wozzles to be shimble for'?",
+      "answer": "False"
+    },
+    {
+      "id": 6,
+      "statement": "From 'It was the case that the wobble is flonk zizz and it was the case that the flimble flibbits at zazzle snorkel', can we infer 'It was the case that the wobble is flonk zizz and the flimble flibbits at zazzle snorkel'?",
+      "answer": "False"
+    },
+    {
+      "id": 7,
+      "statement": "From 'It was the case that the zump is quorple and it was the case that the snizzle wibbles froodle zibber', can we infer 'It was the case that the zump is quorple and the snizzle wibbles froodle zibber'?",
+      "answer": "False"
+    },
+    {
+      "id": 8,
+      "statement": "From 'It was the case that the zizz is snizzle on quank and it was the case that the wibble wumps fizzle quimble', can we infer 'It was the case that the zizz is snizzle on quank and the wibble wumps fizzle quimble'?",
+      "answer": "False"
+    },
+    {
+      "id": 9,
+      "statement": "From 'It was the case that the wump is quank and it was the case that the snorkel is snizzle', can we infer 'It was the case that the wump is quank and the snorkel is snizzle'?",
+      "answer": "False"
+    },
+    {
+      "id": 10,
+      "statement": "From 'It was the case that the snorkel is plonk and it was the case that the snork is wibble', can we infer 'It was the case that the snorkel is plonk and the snork is wibble'?",
+      "answer": "False"
+    },
+    {
+      "id": 11,
+      "statement": "From 'It was the case that the quimble is plonk and it was the case that the snork wozzles to be plimp', can we infer 'It was the case that the quimble is plonk and the snork wozzles to be plimp'?",
+      "answer": "False"
+    },
+    {
+      "id": 12,
+      "statement": "From 'It was the case that the plimp is wozzle by flonk and it was the case that the fizzle is fribble gribble', can we infer 'It was the case that the plimp is wozzle by flonk and the fizzle is fribble gribble'?",
+      "answer": "False"
+    },
+    {
+      "id": 13,
+      "statement": "From 'It was the case that the zooble is in quimble and it was the case that the plonk flimbles fribble', can we infer 'It was the case that the zooble is in quimble and the plonk flimbles fribble'?",
+      "answer": "False"
+    },
+    {
+      "id": 14,
+      "statement": "From 'It was the case that the blurble is blurble for a flump and it was the case that the wumble is snizzle', can we infer 'It was the case that the blurble is blurble for a flump and the wumble is snizzle'?",
+      "answer": "False"
+    },
+    {
+      "id": 15,
+      "statement": "From 'It was the case that the quibble is crunk wobble gribble and it was the case that the zump quorks a flump', can we infer 'It was the case that the quibble is crunk wobble gribble and the zump quorks a flump'?",
+      "answer": "False"
+    },
+    {
+      "id": 16,
+      "statement": "From 'It was the case that the snorkel is grooble frazzle and it was the case that the quibble blimples gronk blimple', can we infer 'It was the case that the snorkel is grooble frazzle and the quibble blimples gronk blimple'?",
+      "answer": "False"
+    },
+    {
+      "id": 17,
+      "statement": "From 'It was the case that the frazzle is flimble and it was the case that the quazzle is flonk by grazzle', can we infer 'It was the case that the frazzle is flimble and the quazzle is flonk by grazzle'?",
+      "answer": "False"
+    },
+    {
+      "id": 18,
+      "statement": "From 'It was the case that the plimp is glorp with crunk and it was the case that the floob is gribble blurble shimble', can we infer 'It was the case that the plimp is glorp with crunk and the floob is gribble blurble shimble'?",
+      "answer": "False"
+    },
+    {
+      "id": 19,
+      "statement": "From 'It was the case that the crunk is wibble fribble and it was the case that the frazzle quorks snork', can we infer 'It was the case that the crunk is wibble fribble and the frazzle quorks snork'?",
+      "answer": "False"
+    },
+    {
+      "id": 20,
+      "statement": "From 'It was the case that the plimp is zibble and it was the case that the snizzle quanks wumble', can we infer 'It was the case that the plimp is zibble and the snizzle quanks wumble'?",
+      "answer": "False"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "inferences": [
+    {
+      "id": 1,
+      "statement": "From 'It is not the case that it has always been the case that the flugel was blimmed', can we infer 'It was the case that the flugel was not blimmed'?",
+      "answer": "True"
+    },
+    {
+      "id": 2,
+      "statement": "From 'It is not the case that it has always been the case that the wug was flooped', can we infer 'It was the case that the wug was not flooped'?",
+      "answer": "True"
+    },
+    {
+      "id": 3,
+      "statement": "From 'It is not the case that it has always been the case that the splat was morphed', can we infer 'It was the case that the splat was not morphed'?",
+      "answer": "True"
+    },
+    {
+      "id": 4,
+      "statement": "From 'It is not the case that it has always been the case that the fribble was snurgled', can we infer 'It was the case that the fribble was not snurgled'?",
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "statement": "From 'It is not the case that it has always been the case that the zinger was fraggled', can we infer 'It was the case that the zinger was not fraggled'?",
+      "answer": "True"
+    },
+    {
+      "id": 6,
+      "statement": "From 'It is not the case that it has always been the case that the grommet was sploffed', can we infer 'It was the case that the grommet was not sploffed'?",
+      "answer": "True"
+    },
+    {
+      "id": 7,
+      "statement": "From 'It is not the case that it has always been the case that the whiffle was shanked', can we infer 'It was the case that the whiffle was not shanked'?",
+      "answer": "True"
+    },
+    {
+      "id": 8,
+      "statement": "From 'It is not the case that it has always been the case that the sprocket was cranked', can we infer 'It was the case that the sprocket was not cranked'?",
+      "answer": "True"
+    },
+    {
+      "id": 9,
+      "statement": "From 'It is not the case that it has always been the case that the twonk was plinked', can we infer 'It was the case that the twonk was not plinked'?",
+      "answer": "True"
+    },
+    {
+      "id": 10,
+      "statement": "From 'It is not the case that it has always been the case that the wug was sproinged', can we infer 'It was the case that the wug was not sproinged'?",
+      "answer": "True"
+    },
+    {
+      "id": 11,
+      "statement": "From 'It is not the case that it has always been the case that the flug was blummed', can we infer 'It was the case that the flug was not blummed'?",
+      "answer": "True"
+    },
+    {
+      "id": 12,
+      "statement": "From 'It is not the case that it has always been the case that the smip was shripped', can we infer 'It was the case that the smip was not shripped'?",
+      "answer": "True"
+    },
+    {
+      "id": 13,
+      "statement": "From 'It is not the case that it has always been the case that the glip was slogged', can we infer 'It was the case that the glip was not slogged'?",
+      "answer": "True"
+    },
+    {
+      "id": 14,
+      "statement": "From 'It is not the case that it has always been the case that the clug was fleeked', can we infer 'It was the case that the clug was not fleeked'?",
+      "answer": "True"
+    },
+    {
+      "id": 15,
+      "statement": "From 'It is not the case that it has always been the case that the dreb was vroombed', can we infer 'It was the case that the dreb was not vroombed'?",
+      "answer": "True"
+    },
+    {
+      "id": 16,
+      "statement": "From 'It is not the case that it has always been the case that the sneg was crampled', can we infer 'It was the case that the sneg was not crampled'?",
+      "answer": "True"
+    },
+    {
+      "id": 17,
+      "statement": "From 'It is not the case that it has always been the case that the flob was skizzled', can we infer 'It was the case that the flob was not skizzled'?",
+      "answer": "True"
+    },
+    {
+      "id": 18,
+      "statement": "From 'It is not the case that it has always been the case that the shank was plooked', can we infer 'It was the case that the shank was not plooked'?",
+      "answer": "True"
+    },
+    {
+      "id": 19,
+      "statement": "From 'It is not the case that it has always been the case that the smonk was vreebled', can we infer 'It was the case that the smonk was not vreebled'?",
+      "answer": "True"
+    },
+    {
+      "id": 20,
+      "statement": "From 'It is not the case that it has always been the case that the fleeg was bluttered', can we infer 'It was the case that the fleeg was not bluttered'?",
+      "answer": "True"
+    }
+  ]
+}

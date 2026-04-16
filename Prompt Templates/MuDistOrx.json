@@ -1,0 +1,104 @@
+{
+  "inferences": [
+    {
+      "id": 1,
+      "statement": "From 'It is always going to be the case that the zooble is blimple or flumps a zizz', can we infer 'The zooble will always going to be blimple or will always be zooble flumps a zizz'?",
+      "answer": "False"
+    },
+    {
+      "id": 2,
+      "statement": "From 'It will always be the case that the shimble is in the plonk or is at the zump zooble', can we infer 'It will always be the case that the shimble is in the plonk or it will always be the case that the shimble is at the zump zooble'?",
+      "answer": "False"
+    },
+    {
+      "id": 3,
+      "statement": "From 'It will always be the case that the wumble is on the frozz or in the shimble', can we infer 'It will always be the case that the wumble is on the frozz or it will always be the case that the wumble is in the shimble'?",
+      "answer": "False"
+    },
+    {
+      "id": 4,
+      "statement": "From 'It will always be the case that the grazzle is in the flim or on the grooble', can we infer 'It will always be the case that the grazzle is in the flim or it will always be the case that the grazzle is on the grooble'?",
+      "answer": "False"
+    },
+    {
+      "id": 5,
+      "statement": "From 'It will always be the case that the plonk is on wibble or on shimble', can we infer 'It will always be the case that the plonk is on wibble or it will always be the case that the plonk is on shimble'?",
+      "answer": "False"
+    },
+    {
+      "id": 6,
+      "statement": "From 'It will always be the case that the blimp gribbles a flonk or gribbles a wibble snorkel', can we infer 'It will always be the case that the blimp gribbles a flonk or it will always be the case that the blimp gribbles a wibble snorkel'?",
+      "answer": "False"
+    },
+    {
+      "id": 7,
+      "statement": "From 'It will always be the case that the blimple is zump or is zibber', can we infer 'It will always be the case that the blimple is zump or it will always be the case that the blimple is zibber'?",
+      "answer": "False"
+    },
+    {
+      "id": 8,
+      "statement": "From 'It will always be the case that the floob is quork or is frazzle', can we infer 'It will always be the case that the floob is quork or it will always be the case that the floob is frazzle'?",
+      "answer": "False"
+    },
+    {
+      "id": 9,
+      "statement": "From 'It will always be the case that the snorkel is flim by quank or is flim by fribble', can we infer 'It will always be the case that the snorkel is flim by quank or it will always be the case that the snorkel is flim by fribble'?",
+      "answer": "False"
+    },
+    {
+      "id": 10,
+      "statement": "From 'It will always be the case that the flibbit is snork or is bimboozle', can we infer 'It will always be the case that the flibbit is snork or it will always be the case that the flibbit is bimboozle'?",
+      "answer": "False"
+    },
+    {
+      "id": 11,
+      "statement": "From 'It will always be the case that the shimble is snizzle plonk or is zibber', can we infer 'It will always be the case that the shimble is snizzle plonk or it will always be the case that the shimble is zibber'?",
+      "answer": "False"
+    },
+    {
+      "id": 12,
+      "statement": "From 'It will always be the case that the quibble is floob on the froodle or is snork on the zump', can we infer 'It will always be the case that the quibble is floob on the froodle or it will always be the case that the quibble is snork on the zump'?",
+      "answer": "False"
+    },
+    {
+      "id": 13,
+      "statement": "From 'It will always be the case that the floob quorples a zizz or quorples a zump', can we infer 'It will always be the case that the floob quorples a zizz or it will always be the case that the floob quorples a zump'?",
+      "answer": "False"
+    },
+    {
+      "id": 14,
+      "statement": "From 'It will always be the case that the fribble is zizz by grooble fribble or is zizz by plimp quimble', can we infer 'It will always be the case that the fribble is zizz by grooble fribble or it will always be the case that the fribble is zizz by plimp quimble'?",
+      "answer": "False"
+    },
+    {
+      "id": 15,
+      "statement": "From 'It will always be the case that the frazzle is in flibbit or is in frozz', can we infer 'It will always be the case that the frazzle is in flibbit or it will always be the case that the frazzle is in frozz'?",
+      "answer": "False"
+    },
+    {
+      "id": 16,
+      "statement": "From 'It will always be the case that the blimp is wump by the frazzle blimple or is wump by the plimp', can we infer 'It will always be the case that the blimp is wump by the frazzle blimple or it will always be the case that the blimp is wump by the plimp'?",
+      "answer": "False"
+    },
+    {
+      "id": 17,
+      "statement": "From 'It will always be the case that the floob is wump in a snizzle or is wump in the floob', can we infer 'It will always be the case that the floob is wump in a snizzle or it will always be the case that the floob is wump in the floob'?",
+      "answer": "False"
+    },
+    {
+      "id": 18,
+      "statement": "From 'It will always be the case that the gronk is wump or is quibble', can we infer 'It will always be the case that the gronk is wump or it will always be the case that the gronk is quibble'?",
+      "answer": "False"
+    },
+    {
+      "id": 19,
+      "statement": "From 'It will always be the case that the zibber gronks a quank or gronks a zump crunk', can we infer 'It will always be the case that the zibber gronks a quank or it will always be the case that the zibber gronks a zump crunk'?",
+      "answer": "False"
+    },
+    {
+      "id": 20,
+      "statement": "From 'It will always be the case that the flim quazzles a frazzle or quazzles a glorp', can we infer 'It will always be the case that the flim quazzles a frazzle or it will always be the case that the flim quazzles a glorp'?",
+      "answer": "False"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "inferences": [
+    {
+      "id": 1,
+      "statement": "From 'The envelope will be upstairs and it will be under a bed', can we infer 'It will be the case that the envelope is upstairs under a bed'?",
+      "answer": "False"
+    },
+    {
+      "id": 2,
+      "statement": "From 'It will be the case that the keys are in the drawer and it will be the case that the keys are on a keychain', can we infer 'It will be the case that the keys are in the drawer on a keychain'?",
+      "answer": "False"
+    },
+    {
+      "id": 3,
+      "statement": "From 'It will be the case that the book is on the shelf and it will be the case that the book is open', can we infer 'It will be the case that the book is open on the shelf'?",
+      "answer": "False"
+    },
+    {
+      "id": 4,
+      "statement": "From 'It will be the case that the cat is in the garden and it will be the case that the cat is sleeping', can we infer 'It will be the case that the cat is sleeping in the garden'?",
+      "answer": "False"
+    },
+    {
+      "id": 5,
+      "statement": "From 'It will be the case that the car is in the garage and it will be the case that the car is red', can we infer 'It will be the case that the car is red and in the garage'?",
+      "answer": "False"
+    },
+    {
+      "id": 6,
+      "statement": "From 'It will be the case that the movie is playing at the cinema and it will be the case that the movie is sold out', can we infer 'It will be the case that the movie is playing and sold out at the cinema'?",
+      "answer": "False"
+    },
+    {
+      "id": 7,
+      "statement": "From 'It will be the case that the train is late and it will be the case that the train is crowded', can we infer 'It will be the case that the train is late and crowded'?",
+      "answer": "False"
+    },
+    {
+      "id": 8,
+      "statement": "From 'It will be the case that the restaurant is expensive and it will be the case that the restaurant is busy', can we infer 'It will be the case that the restaurant is expensive and busy'?",
+      "answer": "False"
+    },
+    {
+      "id": 9,
+      "statement": "From 'It will be the case that the package is delivered today and it will be the case that the package is damaged', can we infer 'It will be the case that the package is delivered damaged today'?",
+      "answer": "False"
+    },
+    {
+      "id": 10,
+      "statement": "From 'It will be the case that the concert is cancelled and it will be the case that the concert is rescheduled', can we infer 'It will be the case that the concert is cancelled and rescheduled'?",
+      "answer": "False"
+    },
+    {
+      "id": 11,
+      "statement": "From 'It will be the case that the dog is in the park and it will be the case that the dog is playing fetch', can we infer 'It will be the case that the dog is playing fetch in the park'?",
+      "answer": "False"
+    },
+    {
+      "id": 12,
+      "statement": "From 'It will be the case that the computer is an Apple and it will be the case that the computer is running a virus scan', can we infer 'It will be the case that the computer is an Apple running a virus scan'?",
+      "answer": "False"
+    },
+    {
+      "id": 13,
+      "statement": "From 'It will be the case that the flowers are in the vase and it will be the case that the flowers are wilting', can we infer 'It will be the case that the flowers are wilting in the vase'?",
+      "answer": "False"
+    },
+    {
+      "id": 14,
+      "statement": "From 'It will be the case that the pizza is mushroom and it will be the case that the pizza is pepperoni', can we infer 'It will be the case that the pizza is mushroom and pepperoni'?",
+      "answer": "False"
+    },
+    {
+      "id": 15,
+      "statement": "From 'It will be the case that the child is at school and it will be the case that the child is unhappy', can we infer 'It will be the case that the child is unhappy at school'?",
+      "answer": "False"
+    },
+    {
+      "id": 16,
+      "statement": "From 'It will be the case that the plane is delayed and it will be the case that the plane is experiencing turbulence', can we infer 'It will be the case that the plane is delayed and experiencing turbulence'?",
+      "answer": "False"
+    },
+    {
+      "id": 17,
+      "statement": "From 'It will be the case that the fish is in the aquarium and it will be the case that the fish is swimming', can we infer 'It will be the case that the fish is swimming in the aquarium'?",
+      "answer": "False"
+    },
+    {
+      "id": 18,
+      "statement": "From 'It will be the case that the painting is in the museum and it will be the case that the painting is being restored', can we infer 'It will be the case that the painting is being restored in the museum'?",
+      "answer": "False"
+    },
+    {
+      "id": 19,
+      "statement": "From 'It will be the case that the athlete is wearing a red jersey and it will be the case that the athlete is stretching', can we infer 'It will be the case that the athlete is stretching while wearing a red jersey'?",
+      "answer": "False"
+    },
+    {
+      "id": 20,
+      "statement": "From 'It will be the case that the scientist is in the lab and it will be the case that the scientist is conducting an experiment', can we infer 'It will be the case that the scientist is conducting an experiment in the lab'?",
+      "answer": "False"
+    }
+  ]
+}

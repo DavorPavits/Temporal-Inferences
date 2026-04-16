@@ -1,0 +1,104 @@
+{
+  "inferences": [
+    {
+      "id": 1,
+      "statement": "From 'It has always been the case that the envelope has been upstairs or under a bed', can we infer 'It has always been the case that the envelope has been upstairs or it has always been the case that the envelope has been under a bed'?",
+      "answer": "False"
+    },
+    {
+      "id": 2,
+      "statement": "From 'It has always been the case that the car has been in the garage or at the repair shop', can we infer 'It has always been the case that the car has been in the garage or it has always been the case that the car has been at the repair shop'?",
+      "answer": "False"
+    },
+    {
+      "id": 3,
+      "statement": "From 'It has always been the case that the book has been on the shelf or in the backpack', can we infer 'It has always been the case that the book has been on the shelf or it has always been the case that the book has been in the backpack'?",
+      "answer": "False"
+    },
+    {
+      "id": 4,
+      "statement": "From 'It has always been the case that the keys have been in the drawer or on the hook', can we infer 'It has always been the case that the keys have been in the drawer or they have always been on the hook'?",
+      "answer": "False"
+    },
+    {
+      "id": 5,
+      "statement": "From 'It has always been the case that the meeting has been on Monday or Tuesday', can we infer 'It has always been the case that the meeting has been on Monday or it has always been on Tuesday'?",
+      "answer": "False"
+    },
+    {
+      "id": 6,
+      "statement": "From 'It has always been the case that the password has contained a number or a special character', can we infer 'It has always been the case that the password has contained a number or it has always contained a special character'?",
+      "answer": "False"
+    },
+    {
+      "id": 7,
+      "statement": "From 'It has always been the case that the flight has been delayed or cancelled', can we infer 'It has always been the case that the flight has been delayed or it has always been cancelled'?",
+      "answer": "False"
+    },
+    {
+      "id": 8,
+      "statement": "From 'It has always been the case that the document has been signed or notarized', can we infer 'It has always been the case that the document has been signed or it has always been notarized'?",
+      "answer": "False"
+    },
+    {
+      "id": 9,
+      "statement": "From 'It has always been the case that the package has been delivered by truck or by plane', can we infer 'It has always been the case that the package has been delivered by truck or it has always been delivered by plane'?",
+      "answer": "False"
+    },
+    {
+      "id": 10,
+      "statement": "From 'It has always been the case that the concert has been indoors or outdoors', can we infer 'It has always been the case that the concert has been indoors or it has always been outdoors'?",
+      "answer": "False"
+    },
+    {
+      "id": 11,
+      "statement": "From 'It has always been the case that the exam has been multiple choice or essay-based', can we infer 'It has always been the case that the exam has been multiple choice or it has always been essay-based'?",
+      "answer": "False"
+    },
+    {
+      "id": 12,
+      "statement": "From 'It has always been the case that the software has been installed on the computer or accessed through the cloud', can we infer 'It has always been the case that the software has been installed on the computer or it has always been accessed through the cloud'?",
+      "answer": "False"
+    },
+    {
+      "id": 13,
+      "statement": "From 'It has always been the case that the meal has included a salad or soup', can we infer 'It has always been the case that the meal has included a salad or it has always included soup'?",
+      "answer": "False"
+    },
+    {
+      "id": 14,
+      "statement": "From 'It has always been the case that the payment has been made by credit card or bank transfer', can we infer 'It has always been the case that the payment has been made by credit card or it has always been made by bank transfer'?",
+      "answer": "False"
+    },
+    {
+      "id": 15,
+      "statement": "From 'It has always been the case that the movie has been in English or subtitled', can we infer 'It has always been the case that the movie has been in English or it has always been subtitled'?",
+      "answer": "False"
+    },
+    {
+      "id": 16,
+      "statement": "From 'It has always been the case that the contract has been approved by the legal team or the CEO', can we infer 'It has always been the case that the contract has been approved by the legal team or it has always been approved by the CEO'?",
+      "answer": "False"
+    },
+    {
+      "id": 17,
+      "statement": "From 'It has always been the case that the experiment has been conducted in a lab or in the field', can we infer 'It has always been the case that the experiment has been conducted in a lab or it has always been conducted in the field'?",
+      "answer": "False"
+    },
+    {
+      "id": 18,
+      "statement": "From 'It has always been the case that the product has been eco-friendly or recyclable', can we infer 'It has always been the case that the product has been eco-friendly or it has always been recyclable'?",
+      "answer": "False"
+    },
+    {
+      "id": 19,
+      "statement": "From 'It has always been the case that the candidate has had a degree or relevant work experience', can we infer 'It has always been the case that the candidate has had a degree or they have always had relevant work experience'?",
+      "answer": "False"
+    },
+    {
+      "id": 20,
+      "statement": "From 'It has always been the case that the building has had an elevator or wheelchair ramps', can we infer 'It has always been the case that the building has had an elevator or it has always had wheelchair ramps'?",
+      "answer": "False"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "inferences": [
+    {
+      "id": 1,
+      "statement": "From 'The meeting is scheduled.' can we infer 'It has always been the case that it will be the case that the meeting is scheduled.'?",
+      "answer": "True"
+    },
+    {
+      "id": 2,
+      "statement": "From 'The system is secure.' can we infer 'It has always been the case that it will be the case that the system is secure.'?",
+      "answer": "True"
+    },
+    {
+      "id": 3,
+      "statement": "From 'The door is locked.' can we infer 'It has always been the case that it will be the case that the door is locked.'?",
+      "answer": "True"
+    },
+    {
+      "id": 4,
+      "statement": "From 'The website is accessible.' can we infer 'It has always been the case that it will be the case that the website is accessible.'?",
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "statement": "From 'The database is available.' can we infer 'It has always been the case that it will be the case that the database is available.'?",
+      "answer": "True"
+    },
+    {
+      "id": 6,
+      "statement": "From 'The lights are on.' can we infer 'It has always been the case that it will be the case that the lights are on.'?",
+      "answer": "True"
+    },
+    {
+      "id": 7,
+      "statement": "From 'The train is on time.' can we infer 'It has always been the case that it will be the case that the train is on time.'?",
+      "answer": "True"
+    },
+    {
+      "id": 8,
+      "statement": "From 'The application is running.' can we infer 'It has always been the case that it will be the case that the application is running.'?",
+      "answer": "True"
+    },
+    {
+      "id": 9,
+      "statement": "From 'The user is logged in.' can we infer 'It has always been the case that it will be the case that the user is logged in.'?",
+      "answer": "True"
+    },
+    {
+      "id": 10,
+      "statement": "From 'The network is stable.' can we infer 'It has always been the case that it will be the case that the network is stable.'?",
+      "answer": "True"
+    }
+  ]
+}
